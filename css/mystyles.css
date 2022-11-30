@@ -1,0 +1,23 @@
+.myfont {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 5rem;
+    font-weight: 100;
+    line-height: 4rem;
+  }
+
+.mysubfont {
+    font-family:Arial, Helvetica, sans-serif;
+    color: whitesmoke !important
+}
+
+body {
+    background-image: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url("../assets/img/bg.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+  }
+
+
+.myitalics{
+    font-style:italic;
+}
